@@ -34,8 +34,8 @@ Below are five V's of big data:
   5. Value (how useful?)
   
   How Data Engineers enable data scientists?
-          Data Engineer             Data Scientist
-    Ingest and store data             Exploit data
-    Set up databases                  Access database
-    Build data pipelines             Use data pipeline output
-    Strong software skill             Strong analytical skill
+          - Data Engineer                 - Data Scientist
+      1.Ingest and store data             Exploit data
+      2.Set up databases                  Access database
+      3.Build data pipelines              Use data pipeline output
+      4.Strong software skill             Strong analytical skill
